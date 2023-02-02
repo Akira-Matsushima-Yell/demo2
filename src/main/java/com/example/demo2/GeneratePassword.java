@@ -20,6 +20,3 @@ public class GeneratePassword {
 		return passwordEncoder.encode(rawPassword);
 	}
 }
-	
-	
-}
